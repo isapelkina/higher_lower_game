@@ -1,4 +1,4 @@
-Higher-Lower Guess Game
+Higher-Lower Guess Game - HTML JavaScript
 1. Prompt for Max Number
 The application prompts the user for a maximum number.
 The application validates the user input and does not allow invalid entries (negative
